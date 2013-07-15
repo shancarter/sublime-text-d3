@@ -1,0 +1,17 @@
+<snippet>
+    <content><![CDATA[var margin = {top: ${1:10}, right: ${2:10}, bottom: ${3:10}, left: ${4:10}};
+
+var width = ${5:960} - margin.left - margin.right,
+    height = ${6:500} - margin.top - margin.bottom;
+
+var svg = d3.select("${7:body}").append("${8:svg}")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+$9]]></content>
+    <tabTrigger>margin</tabTrigger>
+    <scope>source.js</scope>
+    <description>Margin Convention</description>
+</snippet>

@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[${1:svg}.selectAll("$2")
-    .data($3{:data})
-  .enter().append("$2")
-    $4]]></content>
+    .data(${3:data})
+  .enter().append("$4")
+    $5]]></content>
     <tabTrigger>join</tabTrigger>
     <scope>source.js</scope>
     <description>Data Join</description>
