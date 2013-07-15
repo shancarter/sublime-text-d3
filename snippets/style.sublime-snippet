@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[.style("$1", $2)]]></content>
+    <content><![CDATA[.style("$1", $0)]]></content>
     <tabTrigger>.style</tabTrigger>
     <scope>source.js</scope>
     <description>Style Setter</description>

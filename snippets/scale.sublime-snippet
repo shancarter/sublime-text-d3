@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[d3.scale.${1:linear}()
     .domain([$2])
-    .range([$3])$4]]></content>
+    .range([$3])$0]]></content>
     <tabTrigger>scale</tabTrigger>
     <scope>source.js</scope>
     <description>Scale</description>
