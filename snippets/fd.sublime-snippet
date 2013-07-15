@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[function(${1:d}) { return $1$2; }]]></content>
+    <tabTrigger>fd</tabTrigger>
+    <scope>source.js</scope>
+    <description>Anonymous Data Function</description>
+</snippet>

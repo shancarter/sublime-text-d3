@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[.style("$1", $2)]]></content>
+    <tabTrigger>.style</tabTrigger>
+    <scope>source.js</scope>
+    <description>Style Setter</description>
+</snippet>
