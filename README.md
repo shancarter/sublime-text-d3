@@ -12,14 +12,14 @@ Just some handy snippets. And I don't really know what I'm doing with subl packa
 
 ### Basics
 
-- data ⇥ A data join
-- .attr ⇥
-- .style ⇥
+- .attr ⇥ An attribute setter.
+- .style ⇥ A style setter.
 
 - fd ⇥ An anonymous function with a data var. For use inside attr or style setters.
 - fdi ⇥ An anonymous function with d and i vars. For use inside attr or style setters.
 - fn ⇥ An anonymous function
 
+- data ⇥ A data join
 - margin ⇥ Bostock's margin convention for charts.
 
 - scale ⇥
