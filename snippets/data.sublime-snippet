@@ -3,7 +3,7 @@
     .data(${3:data})
   .enter().append("$4")
     $5]]></content>
-    <tabTrigger>join</tabTrigger>
+    <tabTrigger>data</tabTrigger>
     <scope>source.js</scope>
     <description>Data Join</description>
 </snippet>

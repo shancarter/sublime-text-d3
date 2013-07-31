@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[var ${1:projection} = d3.geo.mercator()
+    .center([${3:0}, ${4:38}])
+    .scale(${5:1000})
+    .translate([${6:width / 2}, ${7:height / 2}])$0]]></content>
+    <tabTrigger>mercator</tabTrigger>
+    <scope>source.js</scope>
+    <description>Projection</description>
+</snippet>
