@@ -5,6 +5,12 @@ Sublime Text package for d3.js
 
 Just some handy snippets. And I don't really know what I'm doing with subl packages.
 
+### Installation
+$ cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
+$ git clone git://github.com/kemayo/sublime-text-2-git.git Git
+
+clone into: /Users/shan/Library/Application Support/Sublime Text 2/Packages/D3
+
 ### Basics
 
 - data ⇥ A data join
