@@ -7,23 +7,21 @@ Just some handy snippets for now. And I don't really know what I'm doing with su
 
 ### Basics
 
-data -> A data join
+- data ⇥ A data join
+- .attr ⇥
+- .style ⇥
 
-attr -> 
-style ->
+- fd ⇥ An anonymous function with a data var. For use inside attr or style setters.
+- fdi ⇥ An anonymous function with d and i vars. For use inside attr or style setters.
+- fn ⇥ An anonymous function
+- 
+- margin ⇥ Bostock's margin convention for charts.
 
-fn -> An anonymous function
-fd -> An anonymous function with a data var. For use inside attr or style setters.
-fdi -> An anonymous function with d and i vars. For use inside attr or style setters.
-
-margin -> Bostock's margin convention for charts.
-
-scale ->
+- scale ⇥
 
 ### Geo
 
-projection ->
-albersusa ->
-mercator ->
-
-path ->
+- projection ⇥
+- albersusa ⇥
+- mercator ⇥
+- path ⇥
