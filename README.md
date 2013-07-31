@@ -3,7 +3,7 @@ sublime-text-d3
 
 Sublime Text package for d3.js
 
-Just some handy snippets for now. And I don't really know what I'm doing with subl packages.
+Just some handy snippets. And I don't really know what I'm doing with subl packages.
 
 ### Basics
 
