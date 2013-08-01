@@ -1,7 +1,6 @@
 <snippet>
     <content><![CDATA[var margin = {top: ${1:10}, right: ${2:10}, bottom: ${3:10}, left: ${4:10}};
-
-var width = ${5:960} - margin.left - margin.right,
+    width = ${5:960} - margin.left - margin.right,
     height = ${6:500} - margin.top - margin.bottom;
 
 var svg = d3.select("${7:body}").append("${8:svg}")
