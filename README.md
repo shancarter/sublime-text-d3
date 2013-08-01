@@ -19,7 +19,7 @@ Just some handy snippets. And I don't really know what I'm doing with subl packa
 - fdi ⇥ An anonymous function with d and i vars. For use inside attr or style setters.
 - fn ⇥ An anonymous function
 
-- data ⇥ A data join
+- join ⇥ A data join
 - margin ⇥ Bostock's margin convention for charts.
 
 - scale ⇥
